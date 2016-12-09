@@ -6,6 +6,8 @@ Our lead image size is 520x292 on Opensource.com. If you need a different size f
 
 # Credits
 
+Credits for each image can be found next to its usage on Opensource.com. TODO: Update credits here for each image.
+
 Please be sure to give any of these images proper attribution if you use them. Below is the source information and credit for each image.
 
 bank-vault-secure-safe: 
