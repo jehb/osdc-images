@@ -28,15 +28,19 @@ cloud-database:
 
 colorful-sound-wave:
 
+## freedos
+
 ![freedos](/output/freedos.png)
 
-freedos: <a href="https://opensource.com/users/jason-baker" target="_blank">Jason Baker</a> for Opensource.com. <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC-BY-SA 4.0</a>.
+Image by: <a href="https://opensource.com/users/jason-baker" target="_blank">Jason Baker</a> for Opensource.com. <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC-BY-SA 4.0</a>.
 
 html-code: 
 
 htop: 
 
 tree-clouds:
+
+## typography-fonts
 
 ![typography-fonts](/output/typography-fonts.png)
 
